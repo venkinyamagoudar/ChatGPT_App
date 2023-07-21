@@ -35,6 +35,13 @@
 		2486C6A52A3678AA00024737 /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 2486C6A42A3678AA00024737 /* FirebaseStorageCombine-Community */; };
 		2486C6A72A3762CB00024737 /* ResetPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2486C6A62A3762CB00024737 /* ResetPasswordView.swift */; };
 		2487A5482A2FD97A0087BD6C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2487A5472A2FD97A0087BD6C /* SettingsView.swift */; };
+		2493BA4A2A6A6262007676F4 /* MainView.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA432A6A6261007676F4 /* MainView.PNG */; };
+		2493BA4B2A6A6262007676F4 /* SignInView.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA442A6A6261007676F4 /* SignInView.jpeg */; };
+		2493BA4C2A6A6262007676F4 /* LogInView.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA452A6A6261007676F4 /* LogInView.jpeg */; };
+		2493BA4D2A6A6262007676F4 /* ChatGPT.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA462A6A6262007676F4 /* ChatGPT.mp4 */; };
+		2493BA4E2A6A6262007676F4 /* Chatview.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA472A6A6262007676F4 /* Chatview.jpeg */; };
+		2493BA4F2A6A6262007676F4 /* SettingsView.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA482A6A6262007676F4 /* SettingsView.jpeg */; };
+		2493BA502A6A6262007676F4 /* EmailVerificationView.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 2493BA492A6A6262007676F4 /* EmailVerificationView.PNG */; };
 		24AA7A792A2E863400B2ECF1 /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AA7A782A2E863400B2ECF1 /* LogInView.swift */; };
 		24AA7A7B2A2E863F00B2ECF1 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AA7A7A2A2E863F00B2ECF1 /* SignInView.swift */; };
 		24AA7A952A2E986400B2ECF1 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AA7A942A2E986400B2ECF1 /* WelcomeView.swift */; };
@@ -92,6 +99,13 @@
 		2486C6962A3674D000024737 /* FirebaseDatabase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseDatabase.swift; sourceTree = "<group>"; };
 		2486C6A62A3762CB00024737 /* ResetPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetPasswordView.swift; sourceTree = "<group>"; };
 		2487A5472A2FD97A0087BD6C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		2493BA432A6A6261007676F4 /* MainView.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MainView.PNG; sourceTree = "<group>"; };
+		2493BA442A6A6261007676F4 /* SignInView.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SignInView.jpeg; sourceTree = "<group>"; };
+		2493BA452A6A6261007676F4 /* LogInView.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LogInView.jpeg; sourceTree = "<group>"; };
+		2493BA462A6A6262007676F4 /* ChatGPT.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ChatGPT.mp4; sourceTree = "<group>"; };
+		2493BA472A6A6262007676F4 /* Chatview.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chatview.jpeg; sourceTree = "<group>"; };
+		2493BA482A6A6262007676F4 /* SettingsView.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SettingsView.jpeg; sourceTree = "<group>"; };
+		2493BA492A6A6262007676F4 /* EmailVerificationView.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EmailVerificationView.PNG; sourceTree = "<group>"; };
 		24AA7A782A2E863400B2ECF1 /* LogInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
 		24AA7A7A2A2E863F00B2ECF1 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		24AA7A942A2E986400B2ECF1 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
@@ -191,6 +205,7 @@
 				2486C6AD2A3793F900024737 /* Network */,
 				241596452A22DEAD00E86452 /* Model */,
 				2415960F2A22D36900E86452 /* Assets.xcassets */,
+				2493BA422A6A6140007676F4 /* ScreenShots */,
 				241596112A22D36900E86452 /* Preview Content */,
 			);
 			path = ChatGPT_App;
@@ -297,6 +312,20 @@
 				2487A5472A2FD97A0087BD6C /* SettingsView.swift */,
 			);
 			path = Settings;
+			sourceTree = "<group>";
+		};
+		2493BA422A6A6140007676F4 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				2493BA462A6A6262007676F4 /* ChatGPT.mp4 */,
+				2493BA472A6A6262007676F4 /* Chatview.jpeg */,
+				2493BA492A6A6262007676F4 /* EmailVerificationView.PNG */,
+				2493BA452A6A6261007676F4 /* LogInView.jpeg */,
+				2493BA432A6A6261007676F4 /* MainView.PNG */,
+				2493BA482A6A6262007676F4 /* SettingsView.jpeg */,
+				2493BA442A6A6261007676F4 /* SignInView.jpeg */,
+			);
+			path = ScreenShots;
 			sourceTree = "<group>";
 		};
 		24AA7A912A2E949E00B2ECF1 /* LogIn */ = {
@@ -463,7 +492,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				241596132A22D36900E86452 /* Preview Assets.xcassets in Resources */,
+				2493BA4F2A6A6262007676F4 /* SettingsView.jpeg in Resources */,
+				2493BA502A6A6262007676F4 /* EmailVerificationView.PNG in Resources */,
+				2493BA4C2A6A6262007676F4 /* LogInView.jpeg in Resources */,
+				2493BA4A2A6A6262007676F4 /* MainView.PNG in Resources */,
+				2493BA4D2A6A6262007676F4 /* ChatGPT.mp4 in Resources */,
+				2493BA4B2A6A6262007676F4 /* SignInView.jpeg in Resources */,
 				241596102A22D36900E86452 /* Assets.xcassets in Resources */,
+				2493BA4E2A6A6262007676F4 /* Chatview.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
