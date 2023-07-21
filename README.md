@@ -36,10 +36,12 @@ Before you start, the app was developed and run using the following:
 | Main View        | SignInView        | LogIn View  |
 | :-------------------------:| :-------------------------:| :-----------------------: |
 | ![Main View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/MainView.PNG) | ![SignIn View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/SignInView.jpeg) | ![LogIn View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/LogInView.jpeg) |
+| Main view of the application | User creates his account using Full name, email and password. | User logIn to his account using his credentials. |
 
 | Email Verification View            | Chat View    | Settings View  |
 | :-------------------------:| :-------------------------:| :------------------------------: |
 | ![Email Verification View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/EmailVerificationView.PNG) | ![Chat View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/Chatview.jpeg) | ![Settings View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/SettingsView.jpeg) |
+| Email verification view is shown to new users who created there account and have not verified there email. | User interacts with the AI model in this view. | User ends his session by clicking Logout button from this view. |
 
 ### Video Demo
 [![Video Demo](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/ChatGPT.mp4)](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/ChatGPT.mp4)
