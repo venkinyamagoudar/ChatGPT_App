@@ -33,6 +33,16 @@ Before you start, the app was developed and run using the following:
 
 # Screenshot Gallery: ChatGPT_App
 
+| Main View        | SignInView        | LogIn View  |
+| :-------------------------:| :-------------------------:| :-----------------------: |
+| ![Main View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/MainView.PNG) | ![SignIn View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/SignInView.jpeg) | ![LogIn View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/LogInView.jpeg) |
+
+| Email Verification View            | Chat View    | Settings View  |
+| :-------------------------:| :-------------------------:| :------------------------------: |
+| ![Email Verification View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/EmailVerificationView.PNG) | ![Chat View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/Chatview.jpeg) | ![Settings View](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/SettingsView.jpeg) |
+
+### Video Demo
+[![Video Demo](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/ChatGPT.mp4)](https://github.com/venkinyamagoudar/ChatGPT_App/blob/main/ScreenShots/ChatGPT.mp4)
 
 # How to Run the App?
 
